@@ -1,4 +1,6 @@
 # LinusApologify
+[![Firefox Extension](https://i.imgur.com/GZtlobc.png)](https://addons.mozilla.org/en-GB/firefox/addon/linusapologify/)
+
 Linus Tech Tips apologised, so make every thumbnail on YouTube the thumbnail to his apology.
 
 ## Manual Installation
