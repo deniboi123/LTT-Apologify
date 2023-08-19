@@ -2,7 +2,7 @@
     "name": "Linusify",
     "version": "1.0.0",
     "description": "Every YouTube thumbnail is the linus tech tips apology.",
-    "manifest_version": 3,
+    "manifest_version": 2,
     "author": "Denny",
 
     "icons": {
