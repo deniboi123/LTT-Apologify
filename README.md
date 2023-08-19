@@ -9,6 +9,9 @@ Linus Tech Tips apologised, so make every thumbnail on YouTube the thumbnail to 
 - There is a checkbox for Developer mode, enable that
 - Click Load Unpacked and press the folder that contains all the code as the selected one.
 
+## Inspiration
+Inspired from MrBeastify... or maybe copied 👀
+
 ## Why
 Because why not
 
